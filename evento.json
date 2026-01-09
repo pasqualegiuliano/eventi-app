@@ -1,6 +1,8 @@
 {
-  "nome": "Compleanno di Mamma",
-  "luogo": "Rutigliano",
-  "data": "03 Novembre 2026",
-  "descrizione": "Nicoletta vi chiama!!"
+  "nome": "Compleanno di Maria",
+  "luogo": "Pub dell'Amicizia",
+  "data": "10 Gennaio",
+  "descrizione": "Festeggeremo il compleanno con una festa tematica",
+  "immagineSfondo": "https://pasqualegiuliano.github.io/eventi-app/sfondo.jpg"
 }
+
