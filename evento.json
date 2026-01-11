@@ -1,9 +1,9 @@
 {
-  "nome": "Game",
-  "luogo": "The Dinner Bar, ROMA",
-  "data": "15 Marzo 2026",
-  "descrizione": "Giocheremo a schacchi e nello stesso tempo gusteremo un'ottima colazione a base di cornetti caldi e cappuccino ",
-  "partecipanti": "8",
+  "nome": "Lettura",
+  "luogo": "Biblioteca comunale, Lecce",
+  "data": "20 Marzo 2026",
+  "descrizione": "Leggeremo insieme in biblioteca, dovre potremo socializzare e scambiarci nuovi libri da leggere.",
+  "partecipanti": "10",
   "immagineSfondo": "https://pasqualegiuliano.github.io/eventi-app/sfondo.jpg"
 }
 
