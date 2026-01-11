@@ -1,9 +1,9 @@
 {
-  "nome": "Birthday",
-  "luogo": "Agriturismo Torre Belvedere, Rutigliano, BA",
-  "data": "24 Settembre 2026",
-  "descrizione": "Festeggeremo il compleanno di Pasquale con una cena e poi proseguiremo con una colazione notturna",
-  "partecipanti": "2",
+  "nome": "International",
+  "luogo": "Younger Pub, BARI",
+  "data": "01 Febbraio 2026",
+  "descrizione": "Incontreremo i ragazzi dell'Erasmus e mangeremo i panzerotti con loro",
+  "partecipanti": "12",
   "immagineSfondo": "https://pasqualegiuliano.github.io/eventi-app/sfondo.jpg"
 }
 
