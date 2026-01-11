@@ -1,9 +1,9 @@
 {
-  "nome": "Cena",
-  "luogo": "Ristorante Il Frutteto, Brindisi",
-  "data": "27 Marzo 2026",
-  "descrizione": "Cena vegetariana con percorsi culinari tutti da scoprire. Ci sposteremo nell'orto per raccogliere gli ortaggi",
-  "partecipanti": "7",
+  "nome": "Mostra Fofografica",
+  "luogo": "Galleria Arte del Sud, Taranto",
+  "data": "07 Aprile 2026",
+  "descrizione": "Visiteremo il Museo per ammirare l'ultima mostra fotografica di Besok. Potremo incontrare il fotografo e chiedere dei consigli.",
+  "partecipanti": "5",
   "immagineSfondo": "https://pasqualegiuliano.github.io/eventi-app/sfondo.jpg"
 }
 
