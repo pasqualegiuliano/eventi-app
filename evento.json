@@ -1,9 +1,9 @@
 {
-  "nome": "Lettura",
-  "luogo": "Biblioteca comunale, Lecce",
-  "data": "20 Marzo 2026",
-  "descrizione": "Leggeremo insieme in biblioteca, dovre potremo socializzare e scambiarci nuovi libri da leggere.",
-  "partecipanti": "10",
+  "nome": "Cena",
+  "luogo": "Ristorante Il Frutteto, Brindisi",
+  "data": "27 Marzo 2026",
+  "descrizione": "Cena vegetariana con percorsi culinari tutti da scoprire. Ci sposteremo nell'orto per raccogliere gli ortaggi",
+  "partecipanti": "7",
   "immagineSfondo": "https://pasqualegiuliano.github.io/eventi-app/sfondo.jpg"
 }
 
